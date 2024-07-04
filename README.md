@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vanshikagup2206
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning Web development front end
+- 🌱 I’m currently learning Android Development in Kotlin
 - 😄 Pronouns: Her
 
 <!---
