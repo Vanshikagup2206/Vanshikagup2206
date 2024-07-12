@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br />
-<a href="https://github.com/Vanshikagup2206">
+<a href="https://www.linkedin.com/in/vanshika-gupta-192b31274/">
   <table align="left">
       <tr>
           <td>
