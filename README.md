@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Vanshikagup2206&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=darcula&hide_border=true&background=FFFFFF00">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Vanshikagup2206&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  <br>
+<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=Vanshikagup2206&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <br> -->
   <br>
 </p>
 
