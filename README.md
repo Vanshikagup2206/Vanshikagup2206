@@ -27,6 +27,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vanshikagup2206&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
 ---
 
 ### 🔗 Connect With Me
