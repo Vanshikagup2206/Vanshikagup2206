@@ -18,7 +18,7 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" />
 </p>
 
 ### 🔥 GitHub Streak
