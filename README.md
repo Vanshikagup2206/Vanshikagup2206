@@ -9,28 +9,35 @@
 
 ## 🚀 Let's code, connect, and create awesome things together!
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vanshikagup2206&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues,contribs" alt="GitHub Stats" />
+  <!-- Enhanced stats card with stars, repos, followers, contributions -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanshikagup2206&theme=radical" alt="Profile Details" />
+</p>
+
+### ⭐ GitHub Stats Summary
+
+<p align="center">
+  <!-- Combined card with total stars, commits, PRs, issues -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vanshikagup2206&theme=radical" alt="GitHub Stats Summary" />
 </p>
 
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vanshikagup2206&theme=radical" alt="Top Languages" />
 </p>
 
-### 🔥 GitHub Streak
-
+### 🔥 GitHub Streak 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" /> 
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vanshikagup2206&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vanshikagup2206&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
