@@ -12,19 +12,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshikagup2206&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues,contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vanshikagup2206&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues,contribs" alt="GitHub Stats" />
 </p>
 
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Languages" />
 </p>
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🏆 GitHub Trophies
