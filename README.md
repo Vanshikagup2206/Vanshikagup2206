@@ -9,29 +9,19 @@
 
 ## 🚀 Let's code, connect, and create awesome things together!
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <p align="center">
-  <!-- Enhanced stats card with stars, repos, followers, contributions -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanshikagup2206&theme=radical" alt="Profile Details" />
-</p>
-
-### ⭐ GitHub Stats Summary
-
-<p align="center">
-  <!-- Combined card with total stars, commits, PRs, issues -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vanshikagup2206&theme=radical" alt="GitHub Stats Summary" />
+  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api?username=Vanshikagup2206&show_icons=true&theme=radical&count_private=true&hide_border=true&rank=true" alt="GitHub Stats" />
 </p>
 
 ### 📈 Most Used Languages
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vanshikagup2206&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 ### 🔥 GitHub Streak 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" /> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🏆 GitHub Trophies
