@@ -1,38 +1,57 @@
-# 👋 Hi, I’m @Vanshikagup2206
 
-- 👀 I’m interested in **Android Development**
-- 🌱 Currently learning **Kotlin** for Android
+# Hi, I'm Vanshika Gupta 👋
+
+### Android Developer | Kotlin | Jetpack Compose | Flutter
+
+I'm a software developer passionate about building clean, user-friendly mobile applications.
+
+- 🔭 Working on Android and Flutter applications
+- 🌱 Exploring mobile development and improving my problem-solving skills
+- 💻 Tech Stack: Kotlin, Java, Dart, Jetpack Compose, Flutter, Firebase
 - 📫 Reach me at: **vanshikagupta009@gmail.com**
-- 😄 Pronouns: **She/Her**
 
 ---
 
-## 🚀 Let's code, connect, and create awesome things together!
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api?username=Vanshikagup2206&show_icons=true&theme=radical&count_private=true&hide_border=true&rank=true" alt="GitHub Stats" />
-</p>
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-livid-rho-y9thq7wuvy.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
-### 🔥 GitHub Streak 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vanshikagup2206&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,firebase,androidstudio,git,github" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+## 📊 GitHub Stats
 
-- 👩‍💼 [LinkedIn](https://www.linkedin.com/in/vanshika-gupta-192b31274/)
-- 🧑‍💻 [GitHub](https://github.com/Vanshikagup2206)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Vanshikagup2206&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanshikagup2206&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" height="180" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vanshikagup2206&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vanshikagup2206&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vanshika-gupta-192b31274/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Vanshikagup2206">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
